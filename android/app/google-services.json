@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627135146329",
+    "firebase_url": "https://facedetect-b7986.firebaseio.com",
+    "project_id": "facedetect-b7986",
+    "storage_bucket": "facedetect-b7986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627135146329:android:a9ca86a2aa3fd26b5f0448",
+        "android_client_info": {
+          "package_name": "com.pichkari.FaceDet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627135146329-mab0s00mf19ilqqgmofgd619ah70rq64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgmRwF45w5FlqXO5BLh4ZsKFXLRlsm-SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627135146329-mab0s00mf19ilqqgmofgd619ah70rq64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
